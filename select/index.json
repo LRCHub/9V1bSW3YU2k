@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "スキスキ星人",
+  "base_artist": "莉犬",
+  "createdAt": "2025-12-31T12:18:50.052132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スキスキ星人",
+      "artist": "すとぷり",
+      "has_synced": true,
+      "path": "select/01_スキスキ星人_すとぷり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スキスキ星人",
+      "artist": "莉犬",
+      "has_synced": true,
+      "path": "select/02_スキスキ星人_莉犬.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スキスキ星人",
+      "artist": "Strawberry Prince",
+      "has_synced": false,
+      "path": "select/03_スキスキ星人_Strawberry_Prince.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "【ライブ映像】スキスキ星人／すとぷり 【さいたまスーパーアリーナ公演！ARENA TOUR 2023 \"Here We Go!!\"】",
+      "artist": "すとぷりちゃんねる",
+      "has_synced": false,
+      "path": "select/04_【ライブ映像】スキスキ星人_すとぷり_【さいたまスーパーアリーナ公演!ARENA_TOUR_2023__Here_We_Go!!_】_すとぷりちゃんねる.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スキスキ星人",
+      "artist": "莉犬",
+      "has_synced": false,
+      "path": "select/pl_01_スキスキ星人_莉犬.txt"
+    }
+  ]
+}
